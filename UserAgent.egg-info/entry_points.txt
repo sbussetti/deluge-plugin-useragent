@@ -1,0 +1,8 @@
+
+    [deluge.plugin.core]
+    UserAgent = useragent:CorePlugin
+    [deluge.plugin.gtkui]
+    UserAgent = useragent:GtkUIPlugin
+    [deluge.plugin.web]
+    UserAgent = useragent:WebUIPlugin
+    

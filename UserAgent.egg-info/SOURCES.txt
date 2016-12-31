@@ -1,0 +1,13 @@
+setup.py
+UserAgent.egg-info/PKG-INFO
+UserAgent.egg-info/SOURCES.txt
+UserAgent.egg-info/dependency_links.txt
+UserAgent.egg-info/entry_points.txt
+UserAgent.egg-info/top_level.txt
+useragent/__init__.py
+useragent/common.py
+useragent/core.py
+useragent/gtkui.py
+useragent/webui.py
+useragent/data/config.glade
+useragent/data/useragent.js
